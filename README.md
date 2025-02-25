@@ -2,7 +2,7 @@
 
 I'm very open to collaboration on my public projects. Does something look exciting, but it's been a while since I've updated it? Make a PR with the changes you'd like to see!
 
-If anything I'm working on is something you'd want to chat about, please feel free to reach out to me over email. You can find it at the bottom of my personal website.
+If anything I'm working on is something you'd want to chat about, please feel free to reach out to me over email. Just send mail to "github" at my personal domain.
 
 <!--
 **jasonjmcghee/jasonjmcghee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
